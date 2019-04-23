@@ -1,3 +1,8 @@
 .html {
 	color: red;
 }
+
+.div {
+	position: relative;
+	size: 200px;
+}
