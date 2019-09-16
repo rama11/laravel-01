@@ -43,5 +43,6 @@
 	<h1>Add on feature 1.1.3</h1>
 	<h1>Add on feature 1.1.4</h1>
 	<h1>Add on feature 1.1.5</h1>
+	<h1>Add on feature 1.1.6</h1>
 </body>
 </html>
